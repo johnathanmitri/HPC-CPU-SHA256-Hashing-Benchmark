@@ -1,0 +1,7 @@
+Node #15 found a hash with 31 leading zero bits using Nonce = 0x862ffa6f after 108724301 tries: 0x00000001dca5331673d150938df99f4f85b2cf373bd14d514d18a655a8147f45
+
+Process Count: 96
+Hash input size: 80 bytes
+Runtime in seconds: 126.215385
+Total hashes: 10474524300
+Total Hash Rate: 82989282.688645h/s  =  82.989283MH/s

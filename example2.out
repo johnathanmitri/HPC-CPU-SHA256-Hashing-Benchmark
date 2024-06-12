@@ -1,0 +1,7 @@
+Node #57 found a hash with 28 leading zero bits using Nonce = 0xeaeff16b after 5693441 tries: 0x0000000cdb25c259d5cf9e63baab078ae44314b61f5cd2efd07d1caef676e113
+
+Process Count: 96
+Hash input size: 80 bytes
+Runtime in seconds: 7.141438
+Total hashes: 583793440
+Total Hash Rate: 81747328.881615h/s  =  81.747329MH/s
